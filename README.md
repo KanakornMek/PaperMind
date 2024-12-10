@@ -13,7 +13,7 @@ DSDE project: Data sci, ML model, and BI dashboard
 3. Open the model_runner.ipynb file
 4. Install all required libraries
 5. Change model_name to "/path/to/model"
-
+6. Change "label_map.json" to "path/to/label_map.json"
 ```
 
 
